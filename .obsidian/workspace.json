@@ -177,11 +177,13 @@
       "canvas:Crea nuova lavagna": false,
       "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false
+      "command-palette:Apri riquadro comandi": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "076753de50796ca6",
   "lastOpenFiles": [
+    "README.md",
     "UniPi/byte.md",
     "999 Daily Notes/18-10-2024.md",
     "UniPi/sistemi numerici.md",
