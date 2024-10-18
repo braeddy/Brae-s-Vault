@@ -15,4 +15,4 @@ $$
 $$
 possibilita', ed e' convenzionalmente l'unita' di misura per utilizzata per misurare la grandezza degli oggetti immagazinati nelle memorie dei calcolatori.
 La meta' di un byte e' chiamato [[nibble]]. 
-I [[microprocessori]] gestiscono dati in gruppi di bit chiamati [[word]] (o parole), la cui grandezza dipende dall'[[architettura]] dei [[microprocessori]], la maggior parte dei processori ad oggi opera a 64-bit, ovvero opera con [[word]] di 64 bit
+I [[microprocessori]] gestiscono dati in gruppi di bit chiamati [[word]] (o parole), la cui grandezza dipende dall'[[architettura]] dei [[microprocessori]], la maggior parte dei processori ad oggi opera a 64-bit, ovvero opera con [[word]] di 64 bit. Il bit piu' a destra e' detto bit meno significativo, quello piu' a sinistra il piu' significativo.
