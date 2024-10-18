@@ -1,6 +1,6 @@
 {
-  "remoteURL": "https://github.com/braeddy/Brae-s-Vault.git",
+  "remoteURL": "git@github.com:braeddy/Brae-s-Vault.git",
   "gitLocation": "",
   "syncinterval": 0,
-  "isSyncOnLoad": false
+  "isSyncOnLoad": true
 }
