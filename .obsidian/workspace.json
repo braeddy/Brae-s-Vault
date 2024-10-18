@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "0ce7970eadf5ee34",
+    "type": "split",
+    "children": [
+      {
+        "id": "f446f8bc4a10b12e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "076753de50796ca6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999 Daily Notes/18-10-2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "18-10-2024"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4f793eb1b2876037",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b79e8cdbb91585d4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UniPi/ZZZ Libro AESO.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ZZZ Libro AESO"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f13774a39c84f90",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e503e3139b9773d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5a15d2b6b2fb97f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "401f0ffbc610c9f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "2eae378b57441f04",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f717489decdef47f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7127bfec5a2677e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7463a5081667c0c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UniPi/byte.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a byte"
+            }
+          },
+          {
+            "id": "b4741dae8c87cc21",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "UniPi/byte.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da byte"
+            }
+          },
+          {
+            "id": "38a56d4dacc0164e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "082381508e566d14",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UniPi/byte.md"
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di byte"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "076753de50796ca6",
+  "lastOpenFiles": [
+    "UniPi/byte.md",
+    "999 Daily Notes/18-10-2024.md",
+    "UniPi/sistemi numerici.md",
+    "UniPi/ZZZ Libro AESO.pdf",
+    "ZZZ Immagini/Schermata del 2024-10-17 16-27-39.png",
+    "UniPi/999 AESO.md",
+    "ZZZ Immagini/Schermata del 2024-10-17 16-07-29.png",
+    "ZZZ Immagini/Schermata del 2024-10-17 15-14-47.png",
+    "ZZZ Immagini/Schermata del 2024-10-17 15-14-47 1.png",
+    "UniPi/principi di Progettazione.md",
+    "UniPi/sistema operativo.md",
+    "UniPi/micro architettura.md",
+    "UniPi/complessita'.md",
+    "UniPi/software.md",
+    "999 Daily Notes/17-10-2024.md",
+    "Senza nome.md",
+    "ZZZ Immagini",
+    "999 Templates/school note template.md",
+    "David Money Harris, Sarah L. Harris - Sistemi digitali e architettura dei calcolatori. Progettare con tecnologia ARM (2017, Zanichelli) - libgen.li.pdf",
+    "Senza nome.canvas",
+    "999 Templates/daily note template.md",
+    "UniPi",
+    "999 Templates/literature note template.md",
+    "999 Daily Notes",
+    "999 UniPi/Laboratorio 2/2425-Lab2B/Registro.md",
+    "999 UniPi/Laboratorio 2/2425-Lab2B/README.md",
+    "999 UniPi/Laboratorio 2/2425-Lab2B/01introC/esercizi.md",
+    "999 Templates"
+  ]
+}
