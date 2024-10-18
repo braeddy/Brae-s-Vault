@@ -26,3 +26,5 @@ $$
 -5_{10}=1101_2
 $$
 La problematica principale della rappresentazione in modulo e segno e' che necessitiamo di un bit in piu' per rappresentare qualsiasi numero. Prendiamo ancora in esempio il 5 che in rappresentazione normale necessita di 3 bit per essere rappresentato, invece nella rappresentazione modulo e segno necessita di 4 bit per essere rappresentato.
+
+ciao ciao
