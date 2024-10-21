@@ -160,11 +160,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "f61d8842568871cb",
   "lastOpenFiles": [
+    "esercizi.c",
     "UniPi/1.5 le porte logiche.md",
     "UniPi/2.2 espressioni booleane.md",
     "UniPi/2.1.1 full-adder.md",
@@ -202,7 +204,6 @@
     "Brae's vault/UniPi/software.md",
     "Brae's vault/UniPi/sistemi numerici.md",
     "Brae's vault/UniPi/sistema operativo.md",
-    "Brae's vault/UniPi/principi di Progettazione.md",
     "Brae's vault/UniPi/ZZZ Libro AESO.pdf",
     "Brae's vault/UniPi",
     "Brae's vault/999 Templates",
